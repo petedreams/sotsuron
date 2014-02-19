@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*-
 
 
-#tool0218.py
+#detect_tool.py
 #pcapを読み込んでsynだけ取り出して出力
-#使い方 ./tcpheader_tool2.py *.pcap
+#使い方 ./detect_tool.py *.pcap
 
 
 import os,sys,dpkt,socket,binascii,string,re, operator,socket,datetime,time
