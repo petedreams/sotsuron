@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-
 #detect_tool.py
 #pcapを読み込んでsynだけ取り出して出力
 #使い方 ./detect_tool.py *.pcap
